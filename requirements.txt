@@ -2,7 +2,7 @@ autopep8==2.0.2
 colorama==0.4.6
 defusedxml==0.7.1
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.32
 markdown-it-py==2.2.0
 mdurl==0.1.2
 pyaxmlparser==0.3.28
